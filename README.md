@@ -65,6 +65,7 @@ Configure all endpoint IP addresses to their respective address following the ne
 <img width="589" height="64" alt="Screenshot 2026-06-25 141217" src="https://github.com/user-attachments/assets/d0fa5692-4ded-4cd0-8b22-79c1ad9ac4ba" />
 
 *Ref 6: Upon initial login run 'sudo apt-get update && sudo apt-get upgrade -y' to update and upgrade all of our repositories (Ubuntu)*
+
 <img width="483" height="244" alt="Screenshot 2026-06-25 142830" src="https://github.com/user-attachments/assets/f0f92e83-4fcf-445a-a98e-809fed936869" />
 
 *Ref 7: Using netplan in Ubuntu, Apply netplan and verify configuration*
