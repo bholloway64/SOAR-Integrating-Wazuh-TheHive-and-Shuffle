@@ -52,6 +52,7 @@ Configure all endpoint IP addresses to their respective address following the ne
 <img width="670" height="168" alt="Screenshot 2026-06-20 222817" src="https://github.com/user-attachments/assets/ffb014ea-6982-41f0-833d-883e843929c2" />
 
 *Ref 3: After ensuring that the config file is in the same directory as sysmon we will install sysmon with the config file using powershell*
+
 <img width="516" height="147" alt="Screenshot 2026-06-20 222902" src="https://github.com/user-attachments/assets/d72b698d-4e5b-4827-838f-c4482f4a3a02" />
 
 *Ref 4: Confirm installation by checking services*
